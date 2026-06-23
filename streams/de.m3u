@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://i.imgur.com/EKBM8y2.png",1-2-3 TV
+#EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://github.com/NovaKeyTV/IPTV_Germany/blob/main/Logos/123tv_Logo.png",1-2-3 TV
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="3sat.de@SD",3sat (720p) [Geo-blocked]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
