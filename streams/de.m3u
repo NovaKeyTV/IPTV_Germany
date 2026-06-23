@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://raw.githubusercontent.com/NovaKeyTV/IPTV_Germany/main/Logos/123tv_Logo.png",1-2-3 TV
 https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="3sat.de@SD",3sat (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="3sat.de@SD" tvg-logo="https://raw.githubusercontent.com/NovaKeyTV/IPTV_Germany/main/Logos/3sat-Logo.svg.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD",Adventure Earth (1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
